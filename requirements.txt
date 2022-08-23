@@ -1,0 +1,13 @@
+aiogram==2.22.1
+aiohttp==3.8.1
+aiosignal==1.2.0
+async-timeout==4.0.2
+attrs==22.1.0
+Babel==2.9.1
+certifi==2022.6.15
+charset-normalizer==2.1.1
+frozenlist==1.3.1
+idna==3.3
+multidict==6.0.2
+pytz==2022.2.1
+yarl==1.8.1
